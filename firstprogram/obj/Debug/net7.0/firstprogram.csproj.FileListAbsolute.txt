@@ -1,0 +1,14 @@
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\bin\Debug\net7.0\firstprogram.exe
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\bin\Debug\net7.0\firstprogram.deps.json
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\bin\Debug\net7.0\firstprogram.runtimeconfig.json
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\bin\Debug\net7.0\firstprogram.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\bin\Debug\net7.0\firstprogram.pdb
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\firstprogram.AssemblyInfoInputs.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\firstprogram.AssemblyInfo.cs
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\firstprogram.csproj.CoreCompileInputs.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\firstprogram.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\refint\firstprogram.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\firstprogram.pdb
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\firstprogram.genruntimeconfig.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\C#\firstprogram\obj\Debug\net7.0\ref\firstprogram.dll
