@@ -1,0 +1,14 @@
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\Array_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\Array_C#.AssemblyInfoInputs.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\Array_C#.AssemblyInfo.cs
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\Array_C#.csproj.CoreCompileInputs.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\bin\Debug\net7.0\Array_C#.exe
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\bin\Debug\net7.0\Array_C#.deps.json
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\bin\Debug\net7.0\Array_C#.runtimeconfig.json
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\bin\Debug\net7.0\Array_C#.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\bin\Debug\net7.0\Array_C#.pdb
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\Array_C#.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\refint\Array_C#.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\Array_C#.pdb
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\Array_C#.genruntimeconfig.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\Array_C#\obj\Debug\net7.0\ref\Array_C#.dll
