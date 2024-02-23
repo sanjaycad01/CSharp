@@ -1,0 +1,14 @@
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\goverment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\goverment.AssemblyInfoInputs.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\goverment.AssemblyInfo.cs
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\goverment.csproj.CoreCompileInputs.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\bin\Debug\net7.0\goverment.exe
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\bin\Debug\net7.0\goverment.deps.json
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\bin\Debug\net7.0\goverment.runtimeconfig.json
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\bin\Debug\net7.0\goverment.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\bin\Debug\net7.0\goverment.pdb
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\goverment.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\refint\goverment.dll
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\goverment.pdb
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\goverment.genruntimeconfig.cache
+C:\Users\sanjaycad01\Desktop\CADBATCH\project\CSharp\task\goverment\obj\Debug\net7.0\ref\goverment.dll

@@ -1,22 +1,24 @@
-﻿class Program{
-    public static void Main(string[] args)
-    {
-        int[] arr={2,9,6,5,4};
-        for(int i=0;i<arr.lenght;i++)
-        {
-            for(int j=i;j<arr.length;j++)
-            {
-                if(a[i]>a[j])
-                {
-                    
-                }
-
-            }
-        }
+﻿class Anand{
+   public  string name="Anand";
+    public void tekessenceSoftwareSolution(string name){
+        Console.WriteLine(name +" is an AR Caller");
+    }
+}
+class Sanjay:Anand{
+    
+   
+    
+}
+class Program{
+    public static void Main(string[] args){
+        Sanjay obj=new Sanjay();
+        string b=obj.name;
+        obj.tekessenceSoftwareSolution(b);
     }
 
+}
 
-    }
+    
    /*  public static void Main(string[] args)
     {
         int[] arr={1,2,3,4,5};
